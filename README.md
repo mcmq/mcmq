@@ -7,12 +7,13 @@
 
 ## Some of my Github Stats & Activity
 
-<p align="flex justify-between">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mcmq&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-  <a href="https://github.com/Thinkright20">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mcmq&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
+<div>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mcmq&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+ <a href="https://github.com/mcmq">      
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mcmq&theme=dark&hide_border=true&stroke=f53b3b"/>
+ </a> 
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcmq&layout=compact&theme=dark&hide_border=true&stroke=f53b3b)](https://github.com/mcmq/github-readme-stats)
 

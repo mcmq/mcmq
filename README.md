@@ -3,7 +3,7 @@
 
 ## Languages & Tools
 
-<p align="left"> <a href="https://github.com/mcmq"><img src="https://skillicons.dev/icons?i=js,react,nextjs,svelte,tailwindcss,golang,rust,flutter,firebase,mongodb,express,nodejs,git"> </a> </p>
+<p align="left"> <a href="https://github.com/mcmq"><img src="https://skillicons.dev/icons?i=js,react,nextjs,svelte,tailwindcss,java,golang,rust,flutter,firebase,mongodb,express,nodejs,git"> </a> </p>
 
 ## Some of my Github Stats & Activity
 

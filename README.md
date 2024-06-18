@@ -1,4 +1,4 @@
-## Hey 👋, This is Maxamed C. Muuse
+## Hey 👋, This is Mohamed Abdillahi
 [![Gmail Badge](https://img.shields.io/badge/-mahamadamiin140@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahamadamiin140@gmail.com)](mailto:mahamadamiin140@gmail.com) [![Github Badge](https://img.shields.io/badge/-mcmq-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mcmq/)](https://www.github.com/mcmq/) [![Twitter Badge](https://img.shields.io/badge/-thekaasim-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/thekaasim/)](https://www.twitter.com/thekaasim/)
 
 ## Languages & Tools
